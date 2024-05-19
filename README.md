@@ -2,6 +2,13 @@
 
 This repository contains a canvas image slider implementation.
 
+Contents:
+- src/components - Contains the different type of components. For now we only have the slider.
+- src/assets   - Asset logic
+- src/input    - Input logic
+- src/renderer - Renderer logic
+- src/helpers  - Helper functions and types. 
+
 ## Demo
 
 [![demo](https://img.youtube.com/vi/4bkVBE5Yyyk/maxresdefault.jpg)](https://youtu.be/4bkVBE5Yyyk)
