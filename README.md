@@ -6,7 +6,7 @@ The code is structured in a way where you could add different types of renderers
 
 ## Demo
 
-[![demo](https://img.youtube.com/vi/4bkVBE5Yyyk/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
+[![demo](https://img.youtube.com/vi/4bkVBE5Yyyk/maxresdefault.jpg)](https://youtu.be/4bkVBE5Yyyk)
 
 ## How to run
 - Clone the repository
