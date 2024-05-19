@@ -1,8 +1,6 @@
 # Canvas Image Slider
 
-This repository contains a implementation of a canvas image slider.
-
-The code is structured in a way where you could add different types of renderers.
+This repository contains a canvas image slider implementation.
 
 ## Demo
 
