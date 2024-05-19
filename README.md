@@ -18,4 +18,4 @@ Contents:
 - `npm install` to install needed dependencies
 - `npm run dev` to run a local dev server
 - `npm run build` to build a production dist
-- `npm run preview` to run a local dev server serving the production dist
+- `npm run preview` to run a local dev server serving the production dist. You can also use something like `nws` to run a local server serving the dist folder.
